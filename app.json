@@ -1,10 +1,10 @@
 {
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "name": "MIDAS-Md",
+  "description": "I AM MIDAS-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted-md",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "logo": "t.me/DF_instinct",
+  "keywords": ["MIDAS-md", "Midas-tech", "MIDAS-Md"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
@@ -16,7 +16,7 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "MIDAS-Md"
     },
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
